@@ -1,1 +1,4 @@
-# ActivateAppInsightsWorkshop
+# Application Insights Labs
+
+1. []()
+
